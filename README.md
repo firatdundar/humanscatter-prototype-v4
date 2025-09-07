@@ -2,7 +2,7 @@
 **Summer Research Project at RISE Research Institutes of Sweden**  
 
 <p align="center">
-  <img src="docs/humanscatterv4.jpg" alt="Humanscatter v4.1 and v4.2 Prototypes" width="600">
+  <img src="./docs/humanscatterv4.jpg" alt="Humanscatter v4.1 and v4.2 Prototypes" width="600">
 </p>
 
 Humanscatter v4 is an **enhanced version** of the [original Humanscatter project](https://github.com/amau75/Humanscatter), developed as part of a **summer research internship** at **RISE Research Institutes of Sweden**.  
@@ -116,5 +116,3 @@ and is released under the **CERN-OHL-P** open hardware license.
 * ADF4351 RF Synthesizer Module: [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/ADF4351.pdf)
 * CC2500 RF Transceiver: [Datasheet](https://www.ti.com/product/CC2500)
 * AMS1117 Voltage Regulator: [Datasheet](http://www.advanced-monolithic.com/pdf/ds1117.pdf)
-
-```
